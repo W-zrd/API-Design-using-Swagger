@@ -1,0 +1,72 @@
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/appsettings.Development.json
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/appsettings.json
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127.deps.json
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127.runtimeconfig.json
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127.pdb
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.csproj.AssemblyReference.cache
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.GeneratedMSBuildEditorConfig.editorconfig
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.AssemblyInfoInputs.cache
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.AssemblyInfo.cs
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.csproj.CoreCompileInputs.cache
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.MvcApplicationPartsAssemblyInfo.cs
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.MvcApplicationPartsAssemblyInfo.cache
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets/msbuild.tpmodul9_1302210127.Microsoft.AspNetCore.StaticWebAssets.props
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets/msbuild.build.tpmodul9_1302210127.props
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.tpmodul9_1302210127.props
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.tpmodul9_1302210127.props
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets.pack.json
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets.build.json
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets.development.json
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/scopedcss/bundle/tpmodul9_1302210127.styles.css
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.csproj.CopyComplete
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/refint/tpmodul9_1302210127.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.pdb
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.genruntimeconfig.cache
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/obj/Debug/net7.0/ref/tpmodul9_1302210127.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/flxnzz/Documents/Code/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/appsettings.Development.json
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/appsettings.json
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127.deps.json
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127.runtimeconfig.json
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/tpmodul9_1302210127.pdb
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.csproj.AssemblyReference.cache
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.GeneratedMSBuildEditorConfig.editorconfig
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.AssemblyInfoInputs.cache
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.AssemblyInfo.cs
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.csproj.CoreCompileInputs.cache
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.MvcApplicationPartsAssemblyInfo.cs
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.MvcApplicationPartsAssemblyInfo.cache
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets/msbuild.tpmodul9_1302210127.Microsoft.AspNetCore.StaticWebAssets.props
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets/msbuild.build.tpmodul9_1302210127.props
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.tpmodul9_1302210127.props
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.tpmodul9_1302210127.props
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets.pack.json
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets.build.json
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/staticwebassets.development.json
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/scopedcss/bundle/tpmodul9_1302210127.styles.css
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.csproj.CopyComplete
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/refint/tpmodul9_1302210127.dll
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.pdb
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/tpmodul9_1302210127.genruntimeconfig.cache
+/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/Debug/net7.0/ref/tpmodul9_1302210127.dll

@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/tpmodul9_1302210127.csproj": {}
+  },
+  "projects": {
+    "/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/tpmodul9_1302210127.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/tpmodul9_1302210127.csproj",
+        "projectName": "tpmodul9_1302210127",
+        "projectPath": "/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/tpmodul9_1302210127.csproj",
+        "packagesPath": "/home/flxnzz/.nuget/packages/",
+        "outputPath": "/home/flxnzz/Documents/0.1 Tugas Kuliah/Konstruksi Perangkat Lunak/API-Design-using-Swagger/tpmodul9_1302210127/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/flxnzz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
