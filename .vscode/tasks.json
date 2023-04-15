@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/tpmodul9_1302210127.csproj",
+                "${workspaceFolder}/tpmodul9_1302210127/tpmodul9_1302210127.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/tpmodul9_1302210127.csproj",
+                "${workspaceFolder}/tpmodul9_1302210127/tpmodul9_1302210127.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/tpmodul9_1302210127.csproj"
+                "${workspaceFolder}/tpmodul9_1302210127/tpmodul9_1302210127.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
