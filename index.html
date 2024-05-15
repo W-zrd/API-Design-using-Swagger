@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Strava API Example</title>
+  </head>
+  <body>
+    <button id="loginButton">Login with Strava</button>
+    <pre id="activitiesContainer"></pre>
+
+    <script>
+      const clientId = "124405";
+      const clientSecret = "3df0635b0711e098b2e87d5467d9c4596727353d";
+      const redirectUri = "http://localhost/";
+
+      const loginButton = document.getElementById("loginButton");
+      const activitiesContainer = document.getElementById("activitiesContainer");
+
+      // Step 1: Redirect to Strava authorization page
+      loginButton.addEventListener("click", () => {
+        const authUrl = `https://www.strava.com/oauth/authorize?client_id=${clientId}&redirect_uri=${redirectUri}&response_type=code&scope=activity:read_all`;
+        window.location.href = authUrl;
+      });
+
+      // Step 2: Handle the authorization callback
+      const urlParams = new URLSearchParams(window.location.search);
+      const authorizationCode = urlParams.get("code");
+
+      if (authorizationCode) {
+        // Step 3: Exchange the authorization code for an access token
+        const tokenEndpoint = "https://www.strava.com/oauth/token";
+        const data = {
+          client_id: clientId,
+          client_secret: clientSecret,
+          code: authorizationCode,
+          grant_type: "authorization_code",
+        };
+
+        fetch(tokenEndpoint, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(data),
+        })
+          .then((response) => response.json())
+          .then((data) => {
+            const accessToken = data.access_token;
+            localStorage.setItem("accessToken", accessToken);
+            fetchActivities();
+          })
+          .catch((error) => {
+            console.error("Error:", error);
+          });
+      }
+
+      // Step 4: Fetch the user's activities
+      function fetchActivities() {
+        const activitiesEndpoint = "https://www.strava.com/api/v3/athlete/activities";
+        const accessToken = localStorage.getItem("accessToken");
+
+        fetch(activitiesEndpoint, {
+          headers: {
+            Authorization: `Bearer ${accessToken}`,
+          },
+        })
+          .then((response) => response.json())
+          .then((activities) => {
+            displayActivities(activities);
+          })
+          .catch((error) => {
+            console.error("Error:", error);
+          });
+      }
+
+      // Step 5: Display the user's activities
+      function displayActivities(activities) {
+        let html = "<h2>Activities:</h2>";
+        activities.forEach((activity) => {
+          html += `
+          <p>
+            Name: ${activity.name}<br>
+            Distance: ${activity.distance} meters<br>
+            Moving Time: ${activity.moving_time} seconds
+          </p>
+        `;
+        });
+        activitiesContainer.innerHTML = html;
+      }
+    </script>
+  </body>
+</html>
